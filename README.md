@@ -2,7 +2,7 @@
 # Melda Aslan
 
 **Développement logiciel · Web · Cloud & DevOps**  
-🎓 Étudiante en Pré-MSc à Epitech Paris
+🎓 Étudiante en Master of Science à Epitech Paris
 
 Je découvre et approfondis différents domaines de l'informatique à travers des projets individuels et collectifs.
 
